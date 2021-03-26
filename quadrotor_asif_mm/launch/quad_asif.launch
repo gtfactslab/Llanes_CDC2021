@@ -1,0 +1,4 @@
+<launch>
+    <node name="actuators_zoh_node" type="actuators_zoh_node" pkg="actuators_zoh"/>
+    <node name="quadrotor_asif_mm_node" type="quadrotor_asif_mm_node" pkg="quadrotor_asif_mm"/>
+</launch>
